@@ -1,0 +1,7 @@
+﻿Ciudad,Pais,Temperatura_C,Sensacion_Termica_C,Temp_Min_C,Temp_Max_C,Humedad_Pct,Presion_hPa,Viento_m_s,Nubosidad_Pct,Estado_Clima
+Colón,PA,24.39,25.0,24.39,25.08,81,1010,1.79,100,Nubes
+David,PA,24.23,24.64,24.23,25.8,74,1010,6.71,100,Lluvia muy fuerte
+Chitré,PA,25.5,26.48,25.5,25.5,91,1010,0.7,99,Nubes
+Santiago,CL,18.58,18.06,17.81,22.08,60,1014,0.89,100,Nubes
+Bocas del Toro,PA,24.77,25.6,24.77,24.77,88,1010,3.04,99,Lluvia ligera
+La Chorrera,PA,27.58,32.44,27.58,27.58,90,1010,2.24,99,Nubes
